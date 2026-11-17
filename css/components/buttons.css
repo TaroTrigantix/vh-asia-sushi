@@ -13,7 +13,7 @@
   background: var(--accent);
   color: var(--white);
   text-decoration: none;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   border: 1px solid transparent;
   border-radius: 5px;
@@ -26,14 +26,12 @@
 .button-small {
   padding: 11px 17px;
   min-height: 44px;
-  font-size: 12px;
+  font-size: 14px;
   gap: 20px;
 }
 .text-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 24px;
-  font-size: 14px;
+  display: inline-block;
+  font-size: 16px;
   text-decoration: none;
   border-bottom: 1px solid currentColor;
   padding-block: 5px;
@@ -49,9 +47,26 @@
   .button-small {
     padding: 10px;
     gap: 10px;
-    font-size: 11px;
+    font-size: 13px;
   }
   .actions {
     gap: 20px;
+  }
+}
+
+.button-outline {
+  color: var(--green);
+  border-color: var(--green);
+  background: transparent;
+}
+.button-outline:hover {
+  background: var(--green);
+  color: var(--white);
+}
+
+@media (max-width: 700px) {
+  .button:not(.button-small),
+  .text-link {
+    font-size: 17px;
   }
 }

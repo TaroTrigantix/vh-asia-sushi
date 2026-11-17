@@ -11,7 +11,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font: 400 16px/1.65 var(--font);
+  font: 400 18px/1.65 var(--font);
   -webkit-text-size-adjust: 100%;
 }
 img {
@@ -41,6 +41,7 @@ h1,
 h2,
 h3 {
   font-weight: 600;
+  color: var(--green);
   line-height: 1.1;
 }
 h1 {
@@ -92,5 +93,11 @@ section[id] {
   *::before,
   *::after {
     transition: none !important;
+  }
+}
+
+@media (max-width: 700px) {
+  body {
+    font-size: 19px;
   }
 }

@@ -7,7 +7,7 @@
   padding-top: 38px;
   color: var(--muted);
   max-width: 490px;
-  font-size: 17px;
+  font-size: 19px;
 }
 .kitchen-description .text-link {
   margin-top: 25px;
@@ -34,7 +34,7 @@
   background: var(--paper);
   padding: 10px 16px;
   border-radius: 3px;
-  font-size: 12px;
+  font-size: 14px;
 }
 @media (max-width: 700px) {
   .kitchen {
@@ -43,7 +43,7 @@
   }
   .kitchen-description {
     padding-top: 0;
-    font-size: 16px;
+    font-size: 19px;
   }
   .kitchen-image {
     height: 260px;
@@ -51,7 +51,7 @@
   .kitchen-image span {
     left: 12px;
     bottom: 12px;
-    font-size: 10px;
+    font-size: 14px;
     max-width: calc(100% - 24px);
   }
 }

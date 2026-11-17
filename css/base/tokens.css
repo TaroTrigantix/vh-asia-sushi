@@ -8,16 +8,18 @@
 }
 :root {
   --paper: #fffcf5;
-  --paper-deep: #fff0e9;
+  --paper-deep: #f2f1e8;
   --ink: #29282b;
   --muted: #656167;
-  --accent: #c12d49;
-  --accent-hover: #a51f39;
+  --green: #285747;
+  --green-line: #b9cdbd;
+  --accent: #ae3d3d;
+  --accent-hover: #922f30;
   --line: #e5dcd4;
   --white: #ffffff;
-  --butter: #f8e794;
-  --blush: #fbe2e3;
-  --pistachio: #e8efdb;
+  --butter: #f0e4c7;
+  --blush: #dfe9df;
+  --pistachio: #e9eee5;
   --font: Bricolage, system-ui, sans-serif;
   --width: 1240px;
   --gutter: clamp(20px, 5vw, 80px);
