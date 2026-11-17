@@ -1,0 +1,68 @@
+[
+  {
+    "source": "https://asiaundsushi.de/img/logo-192.png",
+    "file": "assets/images/logo-192.png",
+    "bytes": 31354,
+    "sha256": "6185d0b6ca084d647f213e0c4edc52cf10d6431bda146aa0f19a2d2af11bb51f"
+  },
+  {
+    "source": "https://asiaundsushi.de/fonts/bricolage-grotesque-latin-wdth.woff2",
+    "file": "assets/fonts/bricolage-grotesque-latin-wdth.woff2",
+    "bytes": 78156,
+    "sha256": "c7e1602806bbd726cc99bb1320625f3ae315c1c5831b152cc1510c1e14e7396b"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/logo-96.png",
+    "file": "assets/images/logo-96.png",
+    "bytes": 11520,
+    "sha256": "43df299f321824effd8c38ebffd28113da262aa94fafc9fe5c1de14ba8119654"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/platte-gemischt.webp",
+    "file": "assets/images/platte-gemischt.webp",
+    "bytes": 143590,
+    "sha256": "f949656678abe22f7eec3ecf5d2c163f2bdcc3dee9c68c3141f1c36c918ec4c6"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/ente-curry.webp",
+    "file": "assets/images/ente-curry.webp",
+    "bytes": 65306,
+    "sha256": "b0b7872552d8f031af8b73c35d0ab58b0caeb82115cf895ad704ebfada5e8170"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/maki-nigiri.webp",
+    "file": "assets/images/maki-nigiri.webp",
+    "bytes": 63922,
+    "sha256": "1d92f76201761baa281a6a144942e3a564a00d8b7e676e344c1cefe224d07d92"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/sushi-melone.webp",
+    "file": "assets/images/sushi-melone.webp",
+    "bytes": 84378,
+    "sha256": "672e183eeb7d303bd6ddd4e9b0e3e936b2ecfe0ff2a16554ae82027b11cd3026"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/sushi-platte.webp",
+    "file": "assets/images/sushi-platte.webp",
+    "bytes": 53622,
+    "sha256": "f7adc39ded29aa16e6afd6ed7002327fcc7c610727ea75e95144033445e73ecc"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/garnelen-orchidee.webp",
+    "file": "assets/images/garnelen-orchidee.webp",
+    "bytes": 84748,
+    "sha256": "29830ef4cb4ab911009665ad7d00ffee71a733ef4960d4eb1c39be0f4ecb9ce7"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/ente-fisch.webp",
+    "file": "assets/images/ente-fisch.webp",
+    "bytes": 68024,
+    "sha256": "12a2c8ecc85c1509b435febf6d1d6b126ea80211ba6a4b9edb36deb7aa9760cd"
+  },
+  {
+    "source": "https://asiaundsushi.de/img/sushi-ananas.webp",
+    "file": "assets/images/sushi-ananas.webp",
+    "bytes": 63660,
+    "sha256": "55fb88debde4edacb84544785d971adc5ce50e088c2e1e5d1836112dbe2611c1"
+  }
+]

@@ -1,0 +1,80 @@
+.visit {
+  background: var(--pistachio);
+  color: var(--ink);
+}
+.visit-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
+}
+.visit .eyebrow {
+  color: var(--accent);
+}
+.visit em {
+  color: var(--accent);
+}
+.visit address {
+  font-style: normal;
+  margin-block: 30px 20px;
+  font-size: 17px;
+}
+.visit-info {
+  padding-top: 36px;
+}
+.visit-info h3 {
+  font-size: 23px;
+}
+.hours {
+  margin: 25px 0 30px;
+}
+.hours > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  border-bottom: 1px solid #c6d2b6;
+  padding-block: 15px;
+  font-size: 14px;
+}
+.hours dd {
+  margin: 0;
+  text-align: right;
+}
+.delivery {
+  margin-bottom: 30px;
+}
+.delivery h3 {
+  font-size: 20px;
+}
+.delivery p {
+  font-size: 14px;
+  color: var(--muted);
+  margin-top: 12px;
+  max-width: 450px;
+}
+.phone-link {
+  font-size: 17px;
+  text-decoration: none;
+}
+@media (max-width: 900px) {
+  .visit-grid {
+    gap: 50px;
+  }
+  .visit .actions {
+    gap: 20px;
+  }
+}
+@media (max-width: 700px) {
+  .visit-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .visit-info {
+    padding-top: 0;
+  }
+  .hours > div {
+    font-size: 13px;
+  }
+  .visit h2 {
+    font-size: clamp(33px, 8vw, 50px);
+  }
+}

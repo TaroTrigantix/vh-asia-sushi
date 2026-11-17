@@ -1,0 +1,27 @@
+.legal-page {
+  max-width: 850px;
+  padding-block: 65px 90px;
+}
+.legal-page > .eyebrow {
+  margin-top: 45px;
+}
+.legal-page h1 {
+  font-size: clamp(35px, 6vw, 65px);
+  overflow-wrap: anywhere;
+}
+.prose {
+  margin-top: 45px;
+}
+.prose h2 {
+  font-size: 23px;
+  letter-spacing: -0.02em;
+  margin: 35px 0 15px;
+}
+.prose p {
+  margin-bottom: 18px;
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+.prose a {
+  color: var(--accent);
+}
